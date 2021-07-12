@@ -1,0 +1,2 @@
+# projectMango
+Simple Mango Project
